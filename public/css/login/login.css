@@ -1,0 +1,36 @@
+.menuList .list-menu li:last-child{
+	border-bottom: none;
+}
+.mainTopRow{
+	margin-top:60px;
+}
+.loginLogout{
+	margin-top:10px;
+}
+.login,.register{
+	border:1px solid #E9E9E9;
+	/*margin-right:10px;*/
+}
+.login h3,.register h3{
+	border-bottom:1px solid #E9E9E9;
+	text-align:center;
+	
+}
+h3,.login form,.register form{
+	padding:5px 15px 5px;
+}
+.login input,.register input{
+	width:60%;
+	margin:0 auto;
+}
+/*search*/
+div.search input{
+	border-bottom:1px solid black;
+}
+/*endsearch*/
+.form-group{
+	text-align:center;
+}
+button{
+	margin-left:500px;
+}
